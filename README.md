@@ -4,4 +4,4 @@ Melakukan fetch dengan JavaScript:
 2. Fetch text() plain text
 3. Fetch blob() multiple image
 
-Di hosting di [GitHub Pages] (farhanswitch.my.id/fetch)
+Di hosting di [GitHub Pages] (http://farhanswitch.my.id/fetch).
